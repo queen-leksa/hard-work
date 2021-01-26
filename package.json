@@ -1,0 +1,14 @@
+{
+  "name": "server_app",
+  "version": "0.0.1",
+  "description": "\"no comments\"",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "leksa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
