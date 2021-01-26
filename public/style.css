@@ -1,0 +1,7 @@
+body {
+    margin: 0;
+}
+.wrapper {
+    height: 100vh;
+    background: lightskyblue url(/images/unicorn.svg) no-repeat center / contain;
+}
